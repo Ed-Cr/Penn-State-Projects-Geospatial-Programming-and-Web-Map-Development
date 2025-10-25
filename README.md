@@ -1,4 +1,4 @@
-This details the curriculum I chose to complete Penn State University's Online Geospatial Programming and Web Map Development Graduate Certificate.
+Below is the outline for the curriculum I completed through Penn State University's Online Geospatial Programming and Web Map Development Graduate Certificate.
 
 Summer Semester 2024 - GEOG 485: GIS Programming and Software Development
   - REFERENCE webpage: https://www.e-education.psu.edu/geog485/ 
